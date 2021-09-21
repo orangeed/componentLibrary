@@ -15,3 +15,11 @@
 ## 更新进度
 <p style='color:orange;font-size:16px'>2021-09-21</p> 
 更新排名或者进度条组件，大卡片，小卡片
+
+## 个人公众号
+
+![橘子的分享](./images/橘子的分享.jpg)
+
+## 个人博客
+
+[橘子的分享](https://orangecj.cn/)
