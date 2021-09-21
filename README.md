@@ -6,11 +6,11 @@
 
 ## 大卡片
 
-[排名或者进度条组件](/componet/bigCard/README.md)
+[大卡片](/componet/bigCard/README.md)
 
 ## 小卡片
 
-[排名或者进度条组件](/componet/smallCard/README.md)
+[小卡片](/componet/smallCard/README.md)
 
 ## 更新进度
 <p style='color:orange;font-size:16px'>2021-09-21</p> 
