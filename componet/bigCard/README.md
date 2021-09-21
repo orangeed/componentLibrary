@@ -11,4 +11,4 @@ color2: { type: String, default: "" }
 ```
 效果图如下:
 
-![效果图](../../images/大卡片.png)
+![效果图](../../images/bigCard.png)

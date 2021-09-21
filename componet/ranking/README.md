@@ -13,4 +13,4 @@ rankingData:[{
 ```
 效果图如下:
 
-![效果图](../../images/排名或者进度条组件.png)
+![效果图](../../images/ranking.png)
