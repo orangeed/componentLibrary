@@ -14,3 +14,6 @@ rankingData:[{
 效果图如下:
 
 ![效果图](../../images/ranking.png)
+
+![效果图](../../images/ranking1.png)
+

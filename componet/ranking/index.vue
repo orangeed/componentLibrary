@@ -5,7 +5,10 @@
       <div class="ranking-left">
         {{ item.name }}
       </div>
-      <div class="ranking-out ranking-right">
+      <div
+        class="ranking-out ranking-right"
+        :style="{ backgroundColor: item.type ? '#ebeef580' : '' }"
+      >
         <div
           v-if="item.type"
           class="ranking-inner"
@@ -105,7 +108,7 @@ export default {
         })
       }
     }
-  },
+  }
 }
 </script>
 
